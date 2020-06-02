@@ -1,0 +1,4 @@
+É um sistema simples e interativo com o objetivo de sortear, aleatoriamente, uma brincadeira a uma criança.  
+
+O projeto foi criado com base nas circunstâncias que vivemos atualmente, pois pode ocorrer das brincadeiras diárias infantis ficarem muito repetitivas e não saibam do que brincar. Projeto desenvolvido na linguagem C# utilizando a plataforma .NET. 
+    
